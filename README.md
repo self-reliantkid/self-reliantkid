@@ -40,9 +40,9 @@ I want to be in rooms where I'm learning from people better than me, and contrib
 ## Contributions
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/self-reliantkid/self-reliantkid/output/pacman-contribution-grid-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/self-reliantkid/self-reliantkid/output/pacman-contribution-grid.svg"/>
-  <img alt="pacman-contributions" src="https://raw.githubusercontent.com/self-reliantkid/self-reliantkid/output/pacman-contribution-grid.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/self-reliantkid/self-reliantkid/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/self-reliantkid/self-reliantkid/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/self-reliantkid/self-reliantkid/output/pacman-contribution-graph.svg">
 </picture>
  
 ---
