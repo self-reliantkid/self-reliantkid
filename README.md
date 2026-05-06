@@ -55,16 +55,6 @@ I want to be in rooms where I'm learning from people better than me, and contrib
 
 ---
 
-## Quote of the day
-
-<div align="left">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 ## Let's connect
 
 <div align="left">
@@ -83,5 +73,3 @@ I want to be in rooms where I'm learning from people better than me, and contrib
 </div>
 
 ---
-
-*✨ The work is the proof. ✨*
