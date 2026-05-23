@@ -1,3 +1,5 @@
+![Banner](assets/self-reliantkid.png)
+
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=false&vCenter=true&width=500&lines=Ambitious+by+nature.+Builder+by+choice.;CS+Student+%40+University+of+Ghana;Python+%7C+Data+Science+%7C+Software+Engineering;Always+learning.+Always+shipping." alt="Typing SVG" />
 </div>
