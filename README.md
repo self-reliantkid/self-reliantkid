@@ -1,7 +1,7 @@
 ![Banner](assets/self-reliantkid.png)
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=false&vCenter=true&width=500&lines=Ambitious+by+nature.+Builder+by+choice.;CS+Student+%40+University+of+Ghana;Python+%7C+Data+Science+%7C+Software+Engineering;Always+learning.+Always+shipping." alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=false&vCenter=true&width=500&lines=Building+is+a+craft!" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,15 +27,25 @@ I want to be in rooms where I'm learning from people better than me, and contrib
 
 ## Stack
 
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
 
 ---
 
@@ -49,10 +59,12 @@ I want to be in rooms where I'm learning from people better than me, and contrib
  
 ---
  
-## 📈 GitHub Stats
- 
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=self-reliantkid&theme=radical&hide_border=true" alt="GitHub Streak"/>
+## GitHub Stats
+
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=self-reliantkid&theme=prussian)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=self-reliantkid"/>
 </div>
 
 ---
