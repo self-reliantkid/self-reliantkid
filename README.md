@@ -64,7 +64,7 @@ I want to be in rooms where I'm learning from people better than me, and contrib
 <div align="center">
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=self-reliantkid&theme=prussian)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=self-reliantkid"/>
+
 </div>
 
 ---
