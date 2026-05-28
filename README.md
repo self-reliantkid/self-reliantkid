@@ -1,7 +1,22 @@
 ![Banner](assets/self-reliantkid.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=false&vCenter=true&width=500&lines=Building+is+a+craft!" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/senanu-folikumah">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/self_reliantkid">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://discord.com/users/1205553505746690090">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://instagram.com/sy.foli">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Building+is+a+craft!" alt="Typing SVG" />
 </div>
 
 ---
@@ -65,25 +80,6 @@ I want to be in rooms where I'm learning from people better than me, and contrib
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=self-reliantkid&theme=prussian)](https://git.io/streak-stats)
 
-</div>
-
----
-
-## Let's connect
-
-<div align="left">
-  <a href="https://linkedin.com/in/senanu-folikumah">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/self_reliantkid">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://discord.com/users/1205553505746690090">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://instagram.com/sy.foli">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </div>
 
 ---
