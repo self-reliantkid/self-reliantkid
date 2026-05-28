@@ -16,7 +16,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Building+is+a+craft!" alt="Typing SVG" />
+  <br>
+  <p style="font-family: 'Fira Code', monospace; font-weight: 600; font-size: 20px; color: #F97316;">
+    Building is a craft!
+  </p>
 </div>
 
 ---
