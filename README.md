@@ -16,10 +16,9 @@
 </div>
 
 <div align="center">
-  <br>
-  <p style="font-family: 'Fira Code', monospace; font-weight: 600; font-size: 20px; color: #F97316;">
-    Building is a craft!
-  </p>
+<br>
+
+# <span style="color:#F97316;">Building is a craft!</span>
 </div>
 
 ---
