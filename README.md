@@ -25,20 +25,22 @@
 
 ## Who I am
 
-I'm **Senanu**, a CS student at the **University of Ghana, Legon**.
+I am **Senanu**, a Computer Science student at the **University of Ghana, Legon**.
 
-What I'm actually doing is learning to think like an engineer: breaking problems down, writing code that makes sense, and shipping things I'm not embarrassed to put my name on. I'm the kind of person who gets curious about something and can't stop until I've built it.
-
-I want to be in rooms where I'm learning from people better than me, and contributing something real while I'm at it.I don't have years of experience yet. What I have is the drive to close that gap fast.
+I am a software engineer at Drizzle Hydration actively maintaining and building [Drizzle Shop](https://shop.drizzlelive.com) and the [Drizzle landing page](https://drizzlelive.com).
 
 ---
 
-## What I'm up to
+## Projects
 
-- Going deep on **Python** using real projects, not tutorials
-- Exploring **data science** and how data tells stories
-- Learning something new every week
-- Open to collaborating on meaningful projects
+### Farmer's Assistant:  ![Status](https://img.shields.io/badge/status-planned-blue?style=flat-square)
+
+A farm monitoring system to help farmers track important farm metrics such as temperature, soil moisture, etc. and help farmers make better decisions.
+
+
+### Exam Edge:  ![Status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
+
+A smart study app built for the University of Ghana Pharmacy School that enables students to study effectively using personalized learning plus peer tutoring instead of random generic study methods.
 
 ---
 
